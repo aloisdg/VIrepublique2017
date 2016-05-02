@@ -53,7 +53,15 @@ _Suite du document générée à partir des éléments du programme_
 
 ### Économie et travail
 
-* **...**
+* **Égalité homme-femme dans les rémunérations salariales.**
+* **Revenu universel (RU) pour tout citoyen jouissant de ses droits dès 18 ans (environ 800€).** Modification des salaires/taxes d'entreprises pour que cela ne change rien à ce qui est déjà le revenu d'un citoyen. Suppression de beaucoup d'aides non nécessaires avec ce système.
+* **Suppression du RSA.** Non nécessaire avec le RU.
+* **Arrêt des partenariats publics-privés.** Il s'agit d'une bombe à retardement économique pour les années à venir.
+* **Application des 35h dans toutes les entreprises. Deux stratégies pour répondres aux heures supplémentaires, avec aux maximum 3h par semaines.**
+  * **Rattrapage des heures.** Dans les 2 mois qui suiveny la prise d'heures supplémentaires, avec un ratio de 1 pour 1. C'est à dire que l'employé obtient 1 RTT pour 7 heures supplémentaires ou fait des journées moins chargées.
+  * **Paiement.** Paiement à un taux horaire plus élevé pour l'employé, et taxé plus fortement pour l'employeur.
+* **Application d'un modificateur temps pour la pénibilité du travail de nuit.** Le travail de nuit a été démontré comme nocif sur le long terme. Un facteur par exemple x1.2 pourrait s'appliquer.
+* **Suppression des forfaits "jours".**
 
 ### Éducation
 
@@ -62,7 +70,18 @@ _Suite du document générée à partir des éléments du programme_
 ### Énergie
 
 * **Extension de la durée de vie des centrales dans les limites de la sécurité nucléaire, des nécessités en énergie, et de la disponibilité des ressources en uranium.** Les installations sont présentes, il est intéressant d'un point de vue économique et énergétique de les utiliser dans la limite du possible.
-* **...**
+* **Établissement d'une stratégie de démantèlement des bâtiments nucléaires civils "réaliste".** Nettoyer les installations nucléaires sera une importante responsabilité pour notre génération.
+* **Faible développement pour la fission nucléaire civile.** Technologie (dé)passée.
+* **Investissements dans la fusion nucléaire civile.** Technologie hypothétique de production d'énergie future.
+* **Mise en production de davantage de moyens de génération d'énergie électrique écologiques divers pour remplacer les centrales nucléaires et les centrales thermiques dans la génération d'énergie de masse.** Technologies solaires, éolien (offshore ou non), marémotrice, géothermique, hydrolien...
+* **Conservation de centrales thermiques d'appoint dans l'attente de technologies de stockage performantes pour palier les pics de production du renouvelable.**
+* **Investissements importants dans les technologies de stockage d'énergie.** Il s'agit d'une des choses qui retient le plus la transition énergétique.
+* **Plan villes solaires. Location des toits de particuliers/entreprises pour déployer des panneaux solaires (penser centrale solaire distribuée entre les toits d'une même ville).** L'énergie produite est soit consommée sur place, soit réinjectée sur le réseau. Le propriétaire reçoit une commission sur la production. L'organisme qui déploit les panneaux (on peut voir ici EDF) a plus de moyens pour faire cette démarche. Elle économise également la location de terrains pour construire une telle centrale solaire.
+* **Modification des taxes/subventions pour une sortie totale des énergies fossiles.** L'objectif est de se diriger vers un modèle énergétique totalement durable. Actuellement, le tout électrique semble le plus adapté. L'utilisation de l'hydrogène au coeur d'un réseau électrique apparaîtra peut-être.
+* **Subventions pour l'amélioration de l'isolement des ménages/entreprises.**
+* **Amendes sur les bâtiments habités avec une très mauvaise isolation.**
+* **Reprise du contrôle total de EDF et d'Areva avec un "dépoussièrement de ces entreprises". Suppression des régimes spéciaux, transformation des dons en nature en rémunération classique (logement "de fonction", prix de l'électricité)."
+* **Suppression du libéralisme dans les opérateurs d'électricité. Tout EDF, tout géré par l'état.** Le libéralisme et la loi de marché sur les denrées nécessaires à tout français (électricité/eau/internet/transports) n'est pas très performant.
 
 ### Finances
 
@@ -95,7 +114,11 @@ _Suite du document générée à partir des éléments du programme_
 
 ### Santé
 
-* **...**
+* **Fusion de toutes les assurances maladies dans un organisme géré par l'état.** Suppression de beaucoup de procédures administratives de santé.
+* **Augmentation des remboursements de l'assurance maladie.**
+* **Démarches vers la suppression des complémentaires de santé, et que tout le système soit autour de l'assurance maladie.**
+* **Réformisations de la formation des médecins. Les deux premières années de bachotages sont-elles vraiment pertinentes?**
+* **Enquêtes autour des prix de certaines pratiques médicales toujours très onéreuses.** Par exemple, le prix des prothèse dentaires.
 
 ### Sécurité
 
