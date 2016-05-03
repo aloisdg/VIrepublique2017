@@ -11,6 +11,6 @@
 * **Modification des taxes/subventions pour une sortie totale des énergies fossiles.** L'objectif est de se diriger vers un modèle énergétique totalement durable. Actuellement, le tout électrique semble le plus adapté. L'utilisation de l'hydrogène au coeur d'un réseau électrique apparaîtra peut-être.
 * **Subventions pour l'amélioration de l'isolement des ménages/entreprises.**
 * **Amendes sur les bâtiments habités avec une très mauvaise isolation.**
-* **Reprise du contrôle total de EDF et d'Areva avec un "dépoussièrement de ces entreprises". Suppression des régimes spéciaux, transformation des dons en nature en rémunération classique (logement "de fonction", prix de l'électricité)."
+* **Reprise du contrôle total de EDF et d'Areva avec un "dépoussièrement de ces entreprises".** Suppression des régimes spéciaux, transformation des dons en nature en rémunération classique (logement "de fonction", prix de l'électricité)."
 * **Suppression du libéralisme dans les opérateurs d'électricité. Tout EDF, tout géré par l'état.** Le libéralisme et la loi de marché sur les denrées nécessaires à tout français (électricité/eau/internet/transports) n'est pas très performant.
 

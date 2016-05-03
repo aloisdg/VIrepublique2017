@@ -43,13 +43,19 @@ _Suite du document générée à partir des éléments du programme_
 * **Augmenter la flexibilité de l'armée pour répondre à de nombreuses crises: maintien de la paix, désastres météorologiques, catastrophes naturelles...**
 * **Négociations internationales pour la mutualisation de forces armées.** Les rapprochements les plus évidents sont avec les membres de l'Union Européenne.
 
-### Culture
+### Culture et Information
 
-* **...**
+* **Interdiction de la tauromachie.** Respect des animaux.
+* **Contrôle en profondeur de la redevance audiovisuelle.** Savoir précisément où elle va. Plus de débats, plus variés, sciences, découvertes...
+* **Rapports sur les conglomérats numériques. Nécessité d'une alternative aux concentrations libérales des médiats.** Une redevance pour la presse peut être nécessaire pour créer un journal alternatif qui ne subirait pas les pressions économiques/politiques. Idéalement, un tel journal serait construit au niveau Européen.
+* **Modification de la chronologie des médias.** Dans une époque où l'on peut tout trouver sur Internet, la chronologie actuelle incite au piratage. Le support physique (type DVD/BluRay) est considéré comme "prioritaire" sur la vidéo à la demande (VOD), ce qui peut s'apparanter à une protection économique contre l'avancée technologique.
+  * **Chronologie pour les oeuvres faisant leur première apparition au cinéma.** Le visa d'exploitation permet la diffusion en salle. 4 mois après, l'oeuvre peut être vendue ou louée sur des supports vidéographique, VOD avec paiement à l'acte ou VOD par abonnement. 12 mois après, l'oeuvre peut être diffusée sur une télévision payante, et 18 mois après, sur une télévision gratuite.
+  * **Chronologie pour les oeuvres faisant leur apparition à la télévision (série télévisées, dessins animés...).** Dès la première diffusion d'un épisode, ce dernier peut-être disponible sur tout autre média de distribution (physique, ou VOD).
+* **Amendes sur les contrats d'exclusivités.** Ces contrats ont pour but de sécuriser une oeuvre pour une plateforme en particulier. Cependant, le spectateur ne choisit plus un moyen de distribution pour ses qualités mais pour son catalogue. Par exemple, dans la VOD par abonnement, un spectateur sera tenté par une platforme principalement pour son contenu. Il ne paiera pas plusieurs comptes. Hors, dans un monde idéal, il devrait choisir ce qui est le plus intéressant (qualité vidéo, rapidité, ergonomie...).
 
 ### Écologie générale
 
-* **...**
+* **Normes écologiques stricte sur les conservateurs alimentaires.** Tout en diminuant la quantité de produits chimiques ingurgité, cette mesure aura pour effet de diminuer la durée de conservation de produits, favorisant une consommation locale des produits.
 
 ### Économie et travail
 
@@ -65,7 +71,14 @@ _Suite du document générée à partir des éléments du programme_
 
 ### Éducation
 
-* **...**
+* **Suppression des bourses d'étude.** Ce n'est plus nécessaire de gérer toute cette administration complexe avec l'introduction du revenu universel.
+* **Augmentations importantes des places d'internats dans les lycées.**
+* **Les internes sont répartis aléatoirement dans leur région d'étude. On peut voir cela comme une carte scolaire "aléatoire".** L'objectif premier est d'améliorer la mixité sociale ainsi que de développer le vivre ensemble.
+* **Classes de philosophie pour toutes les années de lycée.** Cela commencera donc en seconde, avec des cours très intéractif, pour arriver ensuite à une introduction de notions plus complexe, correspondant à ce qui est déjà fait en terminale actuellement. L'objectif est de faire travailler la réflexion des jeunes sur leur vie et le monde qui les entoure.
+* **Modules complémentaires de psychologie/philosophie/histoire pour favoriser les débats et le vivre ensemble.**
+* **Création d'une plateforme numérique pour l'apprentissage avec un contenu publique complétable par l'ensemble des enseignants de la république, des classes primaires à l'université.** Cette création a pour but d'aider les enseignants à la fois comme support de cours, mais aussi pour aider des élèves qui seraient en difficulté, tout comme permettre à ceux qui progressent rapidement de découvrir de nouvelles branches d'étude. Cela serait dans l'idée de la [KhanAcademy](https://fr.khanacademy.org/).
+* **Rénovation ou suppression du corps des inspecteurs d'académie.** Les frais de fonctionnement sont important et leur efficacité est à revoir.
+* **Refonte du système de filières S/ES/L...** Certaines filières ont du mal à recruter, avec de faibles débouchés. Réflexions sur un système tron commun avec des modules, ou élargir les filières en difficulté pour intégrer le droit, les arts, la gestion...
 
 ### Énergie
 
@@ -80,7 +93,7 @@ _Suite du document générée à partir des éléments du programme_
 * **Modification des taxes/subventions pour une sortie totale des énergies fossiles.** L'objectif est de se diriger vers un modèle énergétique totalement durable. Actuellement, le tout électrique semble le plus adapté. L'utilisation de l'hydrogène au coeur d'un réseau électrique apparaîtra peut-être.
 * **Subventions pour l'amélioration de l'isolement des ménages/entreprises.**
 * **Amendes sur les bâtiments habités avec une très mauvaise isolation.**
-* **Reprise du contrôle total de EDF et d'Areva avec un "dépoussièrement de ces entreprises". Suppression des régimes spéciaux, transformation des dons en nature en rémunération classique (logement "de fonction", prix de l'électricité)."
+* **Reprise du contrôle total de EDF et d'Areva avec un "dépoussièrement de ces entreprises".** Suppression des régimes spéciaux, transformation des dons en nature en rémunération classique (logement "de fonction", prix de l'électricité)."
 * **Suppression du libéralisme dans les opérateurs d'électricité. Tout EDF, tout géré par l'état.** Le libéralisme et la loi de marché sur les denrées nécessaires à tout français (électricité/eau/internet/transports) n'est pas très performant.
 
 ### Finances
@@ -110,7 +123,7 @@ _Suite du document générée à partir des éléments du programme_
 
 ### Recherche
 
-* **...**
+* **Accès public et gratuit à tous les papiers de recherche existants.**
 
 ### Santé
 
@@ -122,15 +135,27 @@ _Suite du document générée à partir des éléments du programme_
 
 ### Sécurité
 
-* **...**
+* **Fin de l'état d'urgence.**
+* **Installations de caméras dans les voitures de police.**
+* **Mise en place du récipissé de contrôle policier.** Cela a pour but d'éviter les délits de faciès.
+* **Mouvement général des forces de l'odre pour venir au contact de la population.** Les forces de l'ordre sont actuellement perçues comme une crainte. Je me sens personnellement plus anxieux que rassuré en leur présence, alors que cela devrait être le contraire vu qu'il sont là pour protéger les citoyens. Je pense que c'est en partie du à la transition passée des forces de l'ordre de la protection à la verbalisation (contrôles automobiles).
 
 ### Technologies
 
-* **...**
+* **Suppression de Hadopi.**
+* **Création de serveurs TOR dans plusieurs grandes villes (ou bases militaire) dont l'intégrité est assurée par une organisation à but non gouvernementale.** Assurer une liberté d'expression.
+* **Création d'un serveur hébergé dans TOR pour les lanceurs d'alertes, public et/ou privé, avec un espace pour les journaux d'investigations.**
+* **Création d'une équipe de sécurité informatique reliée à la DGSI dont le but est de sécuriser les intérêts numériques français.** Ces experts devront faire des tests de pénétration physique et informatique des systèmes de sécurité des entreprises du territoire. Le but est de repérer des failles pouvant mettre en péril ces systèmes. Elles seront pénalisés par des amendes qui seront renouvellées si les failles ne sont pas résolue. Une telle équipe nécessite une forte coordination avec la Justice.
+* **Les entreprises informatiques ayant pris connaissance d'une intrusion dans leur système devront entrer en contact avec cette équipe pour expertise.**
+* **Utilisation de logiciels OpenSource dans les systèmes informatiques d'état.**
 
 ### Transport
 
-* **...**
+* **Développement du fret ferroviaire.**
+* **Développement des transports en commun dans les villes.**
+* **Interdiction de vente d'un véhicule à énergie fossile neuf à partir de 2025.** Cela ne concerne pas les ventes d'occasion.
+* **Création de législations pour l'introduction des véhicules autonomes.** Vitesse maximale augmentée pour les systèmes autonomes, distances de sécurités diminuées (convois de voitures/poids lourds).
+* **Grandes villes fermées aux voitures non autonomes d'ici 2030.** Avec cette mesure les feux pouront être supprimé et le traffic fortement fluidifié.
 
 ### Vie publique
 
