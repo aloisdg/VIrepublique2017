@@ -2,7 +2,7 @@
 
 ## License
 
-L'ensemble des documents présents dans ce dépôts sont soumis à la license [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/fr/) et ses [conditions](https://creativecommons.org/licenses/by-sa/2.0/fr/legalcode).
+L'ensemble des documents présents dans ce dépôts est soumis à la license [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/fr/) et ses [conditions](https://creativecommons.org/licenses/by-sa/2.0/fr/legalcode).
 
 ## Présentation
 
@@ -32,12 +32,12 @@ _Suite du document générée à partir des éléments du programme_
 
 ##### Pêche
 
-* **Adaptations des quotas de pêche (diminutions) basées sur les rapports d'experts océanographiques pour entretenir les ressources maritimes.** L'océan doit être une ressource renouvelable respectée.
+* **Adaptations des quotas de pêche (diminutions) basés sur les rapports d'experts océanographiques pour entretenir les ressources maritimes.** L'océan doit être une ressource renouvelable respectée.
 * **Interdiction du chalutage en eaux profondes.** La pêche doit être un prélèvement et non une perturbation/destruction de l'écosystème marin.
 
 ### Armée
 
-* **Fin de la gabégie militaire.** Le gaspillage des munitions, ou de l'essence, dans un but de conservation de budgets par plusieurs corps de l'armée française pose un certain nombre de questions économiques. Les "consommations" sont à évaluer, en devenant plus flexibles sur les nécessités réelles.
+* **Fin de la gabégie militaire.** Le gaspillage des munitions, ou de l'essence, dans un but de conservation de budget par plusieurs corps de l'armée française pose un certain nombre de questions économiques. Les "consommations" sont à évaluer, en devenant plus flexibles sur les nécessités réelles.
 * **Entretien des forces nucléaires de dissuasion.** Ces armes assurent depuis un moment la paix mondiale.
 * **Entretien, recherche et renforcement des forces d'intervention rapide/stratégique: forces sous-marines, forces marines, force aériennes.** Notre armée est avant tout une armée de défense. Néanmoins, la force de dissuasion nucléaire n'est pas suffisante pour répondre aux menaces éphémères.
 * **Augmenter la flexibilité de l'armée pour répondre à de nombreuses crises: maintien de la paix, désastres météorologiques, catastrophes naturelles...**
@@ -48,14 +48,14 @@ _Suite du document générée à partir des éléments du programme_
 * **Interdiction de la tauromachie.** Respect des animaux.
 * **Contrôle en profondeur de la redevance audiovisuelle.** Savoir précisément où elle va. Plus de débats, plus variés, sciences, découvertes...
 * **Rapports sur les conglomérats numériques. Nécessité d'une alternative aux concentrations libérales des médiats.** Une redevance pour la presse peut être nécessaire pour créer un journal alternatif qui ne subirait pas les pressions économiques/politiques. Idéalement, un tel journal serait construit au niveau Européen.
-* **Modification de la chronologie des médias.** Dans une époque où l'on peut tout trouver sur Internet, la chronologie actuelle incite au piratage. Le support physique (type DVD/BluRay) est considéré comme "prioritaire" sur la vidéo à la demande (VOD), ce qui peut s'apparanter à une protection économique contre l'avancée technologique.
+* **Modification de la chronologie des médias.** Dans une époque où l'on peut tout trouver sur Internet, la chronologie actuelle incite au piratage. Le support physique (type DVD/BluRay) est considéré comme "prioritaire" sur la vidéo à la demande (VOD), ce qui peut s'apparenter à une protection économique contre l'avancée technologique.
   * **Chronologie pour les oeuvres faisant leur première apparition au cinéma.** Le visa d'exploitation permet la diffusion en salle. 4 mois après, l'oeuvre peut être vendue ou louée sur des supports vidéographique, VOD avec paiement à l'acte ou VOD par abonnement. 12 mois après, l'oeuvre peut être diffusée sur une télévision payante, et 18 mois après, sur une télévision gratuite.
-  * **Chronologie pour les oeuvres faisant leur apparition à la télévision (série télévisées, dessins animés...).** Dès la première diffusion d'un épisode, ce dernier peut-être disponible sur tout autre média de distribution (physique, ou VOD).
+  * **Chronologie pour les oeuvres faisant leur apparition à la télévision (séries télévisées, dessins animés...).** Dès la première diffusion d'un épisode, ce dernier peut-être disponible sur tout autre média de distribution (physique, ou VOD).
 * **Amendes sur les contrats d'exclusivités.** Ces contrats ont pour but de sécuriser une oeuvre pour une plateforme en particulier. Cependant, le spectateur ne choisit plus un moyen de distribution pour ses qualités mais pour son catalogue. Par exemple, dans la VOD par abonnement, un spectateur sera tenté par une platforme principalement pour son contenu. Il ne paiera pas plusieurs comptes. Hors, dans un monde idéal, il devrait choisir ce qui est le plus intéressant (qualité vidéo, rapidité, ergonomie...).
 
 ### Écologie générale
 
-* **Normes écologiques stricte sur les conservateurs alimentaires.** Tout en diminuant la quantité de produits chimiques ingurgité, cette mesure aura pour effet de diminuer la durée de conservation de produits, favorisant une consommation locale des produits.
+* **Normes écologiques strictes sur les conservateurs alimentaires.** Tout en diminuant la quantité de produits chimiques ingurgité, cette mesure aura pour effet de diminuer la durée de conservation de produits, favorisant une consommation locale des produits.
 
 ### Économie et travail
 
@@ -64,7 +64,7 @@ _Suite du document générée à partir des éléments du programme_
 * **Suppression du RSA.** Non nécessaire avec le RU.
 * **Arrêt des partenariats publics-privés.** Il s'agit d'une bombe à retardement économique pour les années à venir.
 * **Application des 35h dans toutes les entreprises. Deux stratégies pour répondres aux heures supplémentaires, avec aux maximum 3h par semaines.**
-  * **Rattrapage des heures.** Dans les 2 mois qui suiveny la prise d'heures supplémentaires, avec un ratio de 1 pour 1. C'est à dire que l'employé obtient 1 RTT pour 7 heures supplémentaires ou fait des journées moins chargées.
+  * **Rattrapage des heures.** Dans les 2 mois qui suivent la prise d'heures supplémentaires, avec un ratio de 1 pour 1. C'est à dire que l'employé obtient 1 RTT pour 7 heures supplémentaires ou fait des journées moins chargées.
   * **Paiement.** Paiement à un taux horaire plus élevé pour l'employé, et taxé plus fortement pour l'employeur.
 * **Application d'un modificateur temps pour la pénibilité du travail de nuit.** Le travail de nuit a été démontré comme nocif sur le long terme. Un facteur par exemple x1.2 pourrait s'appliquer.
 * **Suppression des forfaits "jours".**
@@ -73,12 +73,12 @@ _Suite du document générée à partir des éléments du programme_
 
 * **Suppression des bourses d'étude.** Ce n'est plus nécessaire de gérer toute cette administration complexe avec l'introduction du revenu universel.
 * **Augmentations importantes des places d'internats dans les lycées.**
-* **Les internes sont répartis aléatoirement dans leur région d'étude. On peut voir cela comme une carte scolaire "aléatoire".** L'objectif premier est d'améliorer la mixité sociale ainsi que de développer le vivre ensemble.
-* **Classes de philosophie pour toutes les années de lycée.** Cela commencera donc en seconde, avec des cours très intéractif, pour arriver ensuite à une introduction de notions plus complexe, correspondant à ce qui est déjà fait en terminale actuellement. L'objectif est de faire travailler la réflexion des jeunes sur leur vie et le monde qui les entoure.
+* **Les internes sont répartis aléatoirement dans leurs régions d'études. On peut voir cela comme une carte scolaire "aléatoire".** L'objectif premier est d'améliorer la mixité sociale ainsi que de développer le vivre ensemble.
+* **Classes de philosophie pour toutes les années de lycée.** Cela commencera donc en seconde, avec des cours très intéractifs, pour arriver ensuite à une introduction de notions plus complexes, correspondant à ce qui est déjà fait en terminale actuellement. L'objectif est de faire travailler la réflexion des jeunes sur leur vie et le monde qui les entoure.
 * **Modules complémentaires de psychologie/philosophie/histoire pour favoriser les débats et le vivre ensemble.**
 * **Création d'une plateforme numérique pour l'apprentissage avec un contenu publique complétable par l'ensemble des enseignants de la république, des classes primaires à l'université.** Cette création a pour but d'aider les enseignants à la fois comme support de cours, mais aussi pour aider des élèves qui seraient en difficulté, tout comme permettre à ceux qui progressent rapidement de découvrir de nouvelles branches d'étude. Cela serait dans l'idée de la [KhanAcademy](https://fr.khanacademy.org/).
 * **Rénovation ou suppression du corps des inspecteurs d'académie.** Les frais de fonctionnement sont important et leur efficacité est à revoir.
-* **Refonte du système de filières S/ES/L...** Certaines filières ont du mal à recruter, avec de faibles débouchés. Réflexions sur un système tron commun avec des modules, ou élargir les filières en difficulté pour intégrer le droit, les arts, la gestion...
+* **Refonte du système de filières S/ES/L...** Certaines filières ont du mal à recruter, avec de faibles débouchés. Réflexions sur un système tronc commun avec des modules, ou élargir les filières en difficulté pour intégrer le droit, les arts, la gestion...
 
 ### Énergie
 
@@ -102,8 +102,8 @@ _Suite du document générée à partir des éléments du programme_
   * **Décroissance linéaire.** Taxe(t en mois) = 50 * (1 - t). Ainsi, du microtrading aurait une taxe à 50% alors que des vrais investissements, c'est à dire le temps de possession d'une action supérieur à 1 mois, ne seraient pas taxés.
   * **Décroissance exponentielle.** Taxe(t en mois) = 50 * exp(-t*5). Ainsi, du microtrading serait à nouveau taxé et la taxe tomberait en dessous de 1% après 1 mois de possession d'une action.
 * **Si de l'évasion fiscale est découverte, les biens non déclarés par le fautif seront alors la propriété de l'état français.** Il s'agit d'une mesure forte contre la fraude. Cependant, cette dernière semble très invasive sur le droit de propriété.
-* **Nouvel impôt sur le revenu, plus simple, plus juste, prélevé à la source.** Je me base ici sur les travaux proposé par [Camille Landais, Thomas Piketty et Emmanuel Saez](http://www.revolution-fiscale.fr/). De nombreux éléments de l'impôt actuel sont supprimés: impôt sur le revenu (IRPP), CSG, CRDS, prélèvement libératoire, impôt proportionnel sur les plus values, prime pour l'emploi et bouclier fiscal. Ils sont remplacés par un unique barème à tranche. De plus, l'impôt est individuel, n'étant pas relié à un foyer. Une version résumée de ce nouvel impôt est disponible [ici](http://www.revolution-fiscale.fr/img/t2-1.pdf).
-* **Aide normalisée pour les enfants, déliée de la notion de revenu.** Pour chaque enfant de moins de 18 ans, l'aide à la famille est versée au responsable légal de l'enfant, avec des tranches d'âge (besoins suivant l'âge). À l'âge de 18 ans, ces aides disparaissent avec le revenu universel directement versé au jeune adulte.
+* **Nouvel impôt sur le revenu, plus simple, plus juste, prélevé à la source.** Je me base ici sur les travaux proposés par [Camille Landais, Thomas Piketty et Emmanuel Saez](http://www.revolution-fiscale.fr/). De nombreux éléments de l'impôt actuel sont supprimés: impôt sur le revenu (IRPP), CSG, CRDS, prélèvement libératoire, impôt proportionnel sur les plus values, prime pour l'emploi et bouclier fiscal. Ils sont remplacés par un unique barème à tranche. De plus, l'impôt est individuel, n'étant pas relié à un foyer. Une version résumée de ce nouvel impôt est disponible [ici](http://www.revolution-fiscale.fr/img/t2-1.pdf).
+* **Aide normalisée pour les enfants, déliée de la notion de revenu.** Pour chaque enfant de moins de 18 ans, l'aide à la famille est versée au responsable légal de l'enfant, avec des tranches d'âges (besoins suivant l'âge). À l'âge de 18 ans, ces aides disparaissent avec le revenu universel directement versé au jeune adulte.
 
 ### Politique
 
@@ -117,7 +117,7 @@ _Suite du document générée à partir des éléments du programme_
 
 ##### Hommes Politique
 
-* **Interdiction du cumul des mandats.** Comment un Homme politique peut-il prétendre à défendre les intérêts d'une population en disposant de plusieurs mandats à la fois.
+* **Interdiction du cumul des mandats.** Comment un Homme politique peut-il prétendre à défendre les intérêts d'une population en disposant de plusieurs mandats à la fois ?
 * **Suppression totale du vote par procuration pour les députés et les sénateurs.**
 * **Renforcement des mesures punitives contre les absences répétées de députés et sénateurs.** Cf: [nosdeputes.fr](http://www.nosdeputes.fr/) et [nossenateurs.fr](www.nossenateurs.fr).
 * **Intégrité morale des hommes politiques.** Sous certaines conditions (exemple: condamnations), interdiction de se présenter.
@@ -156,7 +156,7 @@ _Suite du document générée à partir des éléments du programme_
 * **Développement des transports en commun dans les villes.**
 * **Interdiction de vente d'un véhicule à énergie fossile neuf à partir de 2025.** Cela ne concerne pas les ventes d'occasion.
 * **Création de législations pour l'introduction des véhicules autonomes.** Vitesse maximale augmentée pour les systèmes autonomes, distances de sécurités diminuées (convois de voitures/poids lourds).
-* **Grandes villes fermées aux voitures non autonomes d'ici 2030.** Avec cette mesure les feux pouront être supprimé et le traffic fortement fluidifié.
+* **Grandes villes fermées aux voitures non autonomes d'ici 2030.** Avec cette mesure les feux pouront être supprimés et le traffic fortement fluidifié.
 
 ### Vie publique
 

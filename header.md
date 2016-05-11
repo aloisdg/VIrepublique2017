@@ -2,7 +2,7 @@
 
 ## License
 
-L'ensemble des documents présents dans ce dépôts sont soumis à la license [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/fr/) et ses [conditions](https://creativecommons.org/licenses/by-sa/2.0/fr/legalcode).
+L'ensemble des documents présents dans ce dépôts est soumis à la license [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/fr/) et ses [conditions](https://creativecommons.org/licenses/by-sa/2.0/fr/legalcode).
 
 ## Présentation
 

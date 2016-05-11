@@ -10,7 +10,7 @@
 
 ##### Hommes Politique
 
-* **Interdiction du cumul des mandats.** Comment un Homme politique peut-il prétendre à défendre les intérêts d'une population en disposant de plusieurs mandats à la fois.
+* **Interdiction du cumul des mandats.** Comment un Homme politique peut-il prétendre à défendre les intérêts d'une population en disposant de plusieurs mandats à la fois ?
 * **Suppression totale du vote par procuration pour les députés et les sénateurs.**
 * **Renforcement des mesures punitives contre les absences répétées de députés et sénateurs.** Cf: [nosdeputes.fr](http://www.nosdeputes.fr/) et [nossenateurs.fr](www.nossenateurs.fr).
 * **Intégrité morale des hommes politiques.** Sous certaines conditions (exemple: condamnations), interdiction de se présenter.

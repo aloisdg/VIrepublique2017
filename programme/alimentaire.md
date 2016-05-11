@@ -12,6 +12,6 @@
 
 ##### Pêche
 
-* **Adaptations des quotas de pêche (diminutions) basées sur les rapports d'experts océanographiques pour entretenir les ressources maritimes.** L'océan doit être une ressource renouvelable respectée.
+* **Adaptations des quotas de pêche (diminutions) basés sur les rapports d'experts océanographiques pour entretenir les ressources maritimes.** L'océan doit être une ressource renouvelable respectée.
 * **Interdiction du chalutage en eaux profondes.** La pêche doit être un prélèvement et non une perturbation/destruction de l'écosystème marin.
 
