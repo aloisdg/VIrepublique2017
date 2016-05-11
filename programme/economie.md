@@ -9,4 +9,6 @@
   * **Paiement.** Paiement à un taux horaire plus élevé pour l'employé, et taxé plus fortement pour l'employeur.
 * **Application d'un modificateur temps pour la pénibilité du travail de nuit.** Le travail de nuit a été démontré comme nocif sur le long terme. Un facteur par exemple x1.2 pourrait s'appliquer.
 * **Suppression des forfaits "jours".**
+* **Obligation de rémunération des stagiaires.** Un stagiaire dans une entreprise doit avoir son contrat relié à un emploi hors stage (exemple: stagiaire ingénieur). La rémunération de tout stagiaire est alors au minimum 70% du revenu de l’emploi hors stage, minoré par le SMIC.
+* **Suppression des aides au logement associées à la CAF.** Elles ne sont plus nécessaires avec le revenu universel.
 

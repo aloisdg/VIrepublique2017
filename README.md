@@ -10,9 +10,11 @@ Ce document est un programme politique destiné à la présidentielle de 2017. I
 
 ## Contributions
 
-Pour pouvoir débattre et contribuer à l'ensemble des mesures présentes dans ce document, il faut se connecter avec un compte Github et participer aux [Issues](https://github.com/Philaeux/VIrepublique2017/issues). Vous pourez participer plus en détails aux débats en utilisant le site internet [vlamotte.fr](http://vlamotte.fr) qui sera disponible sous peu.
+Pour pouvoir débattre et contribuer à l'ensemble des mesures présentes dans ce document, il faut se connecter avec un compte Github et participer aux [Issues](https://github.com/Philaeux/VIrepublique2017/issues). Vous pouvez obtenir plus d'informations à propos du candidat Vincent Lamotte qui défend ces idées à [vlamotte.fr](http://vlamotte.fr).
 
 ## Programme
+
+Ce programme peut-être récupéré au format PDF en accédant à [ce lien](https://gitprint.com/Philaeux/VIrepublique2017/blob/master/README.md).
 
 _Suite du document générée à partir des éléments du programme_
 

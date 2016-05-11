@@ -5,4 +5,5 @@
 * **Interdiction de distribuer des publicités plus volumineuses qu'un simple prospectus recto/verso.**
 * **Suppression du changement d'heure hiver/été. Conservation toute l'année de GMT+1.** Le changement se ferait simplement par un non décalage à l'heure d'été une des années, et plus de changement d'heure par la suite. La coordination avec les pays voisins pour faire ce changement en même temps, si désiré, est nécessaire (cas de l'Espagne).
 * **Légalisation de la consommation de cannabis à but thérapeutique et récréativite, vente autorisée aux personnes de plus de 22 ans.** La vente est encadrée par les pharmacie et la consommation est suivie sur la carte vitale afin de prévenir les abus. De plus, les mêmes règles que pour la consommation d'alcool s'appliquent: conduite interdite, état "d'ébriété" sur la voie publique.
+* **Interdiction de la vente liée, notamment dans la vente de matériel informatique.** Un acheteur doit avoir conscience de tous les éléments présents dans le système acheté, leur valeur, les offres d’essais et peut refuser certains des éléments (avec soustraction au prix).
 

@@ -8,4 +8,6 @@
 * **Création d'une plateforme numérique pour l'apprentissage avec un contenu publique complétable par l'ensemble des enseignants de la république, des classes primaires à l'université.** Cette création a pour but d'aider les enseignants à la fois comme support de cours, mais aussi pour aider des élèves qui seraient en difficulté, tout comme permettre à ceux qui progressent rapidement de découvrir de nouvelles branches d'étude. Cela serait dans l'idée de la [KhanAcademy](https://fr.khanacademy.org/).
 * **Rénovation ou suppression du corps des inspecteurs d'académie.** Les frais de fonctionnement sont important et leur efficacité est à revoir.
 * **Refonte du système de filières S/ES/L...** Certaines filières ont du mal à recruter, avec de faibles débouchés. Réflexions sur un système tronc commun avec des modules, ou élargir les filières en difficulté pour intégrer le droit, les arts, la gestion...
+* **Ajout d’un CAPES et d’une Aggrégation de Sciences Informatiques.**
+* **Introduction de leçons d’usages, de notions scientifiques ainsi que de pratiques de la programmation plus tôt dans le système éducatif.**
 
