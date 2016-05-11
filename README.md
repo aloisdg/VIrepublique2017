@@ -70,6 +70,8 @@ _Suite du document générée à partir des éléments du programme_
   * **Paiement.** Paiement à un taux horaire plus élevé pour l'employé, et taxé plus fortement pour l'employeur.
 * **Application d'un modificateur temps pour la pénibilité du travail de nuit.** Le travail de nuit a été démontré comme nocif sur le long terme. Un facteur par exemple x1.2 pourrait s'appliquer.
 * **Suppression des forfaits "jours".**
+* **Obligation de rémunération des stagiaires.** Un stagiaire dans une entreprise doit avoir son contrat relié à un emploi hors stage (exemple: stagiaire ingénieur). La rémunération de tout stagiaire est alors au minimum 70% du revenu de l’emploi hors stage, minoré par le SMIC.
+* **Suppression des aides au logement associées à la CAF.** Elles ne sont plus nécessaires avec le revenu universel.
 
 ### Éducation
 
@@ -81,6 +83,8 @@ _Suite du document générée à partir des éléments du programme_
 * **Création d'une plateforme numérique pour l'apprentissage avec un contenu publique complétable par l'ensemble des enseignants de la république, des classes primaires à l'université.** Cette création a pour but d'aider les enseignants à la fois comme support de cours, mais aussi pour aider des élèves qui seraient en difficulté, tout comme permettre à ceux qui progressent rapidement de découvrir de nouvelles branches d'étude. Cela serait dans l'idée de la [KhanAcademy](https://fr.khanacademy.org/).
 * **Rénovation ou suppression du corps des inspecteurs d'académie.** Les frais de fonctionnement sont important et leur efficacité est à revoir.
 * **Refonte du système de filières S/ES/L...** Certaines filières ont du mal à recruter, avec de faibles débouchés. Réflexions sur un système tronc commun avec des modules, ou élargir les filières en difficulté pour intégrer le droit, les arts, la gestion...
+* **Ajout d’un CAPES et d’une Aggrégation de Sciences Informatiques.**
+* **Introduction de leçons d’usages, de notions scientifiques ainsi que de pratiques de la programmation plus tôt dans le système éducatif.**
 
 ### Énergie
 
@@ -135,6 +139,8 @@ _Suite du document générée à partir des éléments du programme_
 * **Démarches vers la suppression des complémentaires de santé, et que tout le système soit autour de l'assurance maladie.**
 * **Réformisations de la formation des médecins. Les deux premières années de bachotages sont-elles vraiment pertinentes?**
 * **Enquêtes autour des prix de certaines pratiques médicales toujours très onéreuses.** Par exemple, le prix des prothèse dentaires.
+* **Les informations sur le don d’organes en cas de fin de vie sont ajoutées au dossier médical (la carte vitale) d’un citoyen.** Valide pour toute personne majeure, cette information peut-être modifiée par entretien avec un médecin.
+* **Les informations sur la fin de vie “digne et apaisée” sont ajoutées au dossier médical (la carte vitale) d’un citoyen.** Valide pour toute personne majeure, la décision à adopter ainsi qu’une personne de confiance y sont ajoutées. Modifiable par un entretien avec un médecin.
 
 ### Sécurité
 
@@ -151,6 +157,9 @@ _Suite du document générée à partir des éléments du programme_
 * **Création d'une équipe de sécurité informatique reliée à la DGSI dont le but est de sécuriser les intérêts numériques français.** Ces experts devront faire des tests de pénétration physique et informatique des systèmes de sécurité des entreprises du territoire. Le but est de repérer des failles pouvant mettre en péril ces systèmes. Elles seront pénalisés par des amendes qui seront renouvellées si les failles ne sont pas résolue. Une telle équipe nécessite une forte coordination avec la Justice.
 * **Les entreprises informatiques ayant pris connaissance d'une intrusion dans leur système devront entrer en contact avec cette équipe pour expertise.**
 * **Utilisation de logiciels OpenSource dans les systèmes informatiques d'état.**
+* **Suppression des boîtes noires d’écoutes des réseaux de communication français.**
+* **Les possesseurs de réseaux de communications sont responsable de la non pénétration physique/logicielle de leur réseau.** Il s’agit de la neutralité de l’Internet en fin de ligne. Aucune écoute du réseau ne sera tolérée, et ce par aucun acteur de la société.
+* **Amendes sur la vente de produits ayant révélé des failles de sécurité tant qu’elles ne sont pas corrigées (si logicielles) et interdiction de vente si non corrigeables (si matérielles).** Je pense à des systèmes informatiques possédant des “backdoors”.
 
 ### Transport
 
@@ -167,4 +176,5 @@ _Suite du document générée à partir des éléments du programme_
 * **Interdiction de distribuer des publicités plus volumineuses qu'un simple prospectus recto/verso.**
 * **Suppression du changement d'heure hiver/été. Conservation toute l'année de GMT+1.** Le changement se ferait simplement par un non décalage à l'heure d'été une des années, et plus de changement d'heure par la suite. La coordination avec les pays voisins pour faire ce changement en même temps, si désiré, est nécessaire (cas de l'Espagne).
 * **Légalisation de la consommation de cannabis à but thérapeutique et récréativite, vente autorisée aux personnes de plus de 22 ans.** La vente est encadrée par les pharmacie et la consommation est suivie sur la carte vitale afin de prévenir les abus. De plus, les mêmes règles que pour la consommation d'alcool s'appliquent: conduite interdite, état "d'ébriété" sur la voie publique.
+* **Interdiction de la vente liée, notamment dans la vente de matériel informatique.** Un acheteur doit avoir conscience de tous les éléments présents dans le système acheté, leur valeur, les offres d’essais et peut refuser certains des éléments (avec soustraction au prix).
 
