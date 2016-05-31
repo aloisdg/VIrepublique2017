@@ -8,7 +8,7 @@ L'ensemble des documents présents dans ce dépôts est soumis à la license [CC
 
 Ce document est un programme politique destiné à la présidentielle de 2017. Il se veut altermondialiste par ses propositions. Ce programme est défendu par Vincent Lamotte pour les élections à venir, dont la recherche des signatures à commencé en Juin 2016. Celle-ci se fait actuellement par contact mail avec les maires des communes de France. Vous pouvez obtenir plus d'informations à propos du candidat Vincent Lamotte à [vlamotte.fr](http://vlamotte.fr).
 
-![Photo de Vincent Lamotte](/annexes/photo.jpg)
+<div style="text-align:center"><img src="/annexes/photo.jpg" alt="Photo de Vincent Lamotte" title="Photo de Vincent Lamotte" width="300"></div>
 
 ## Contributions
 
