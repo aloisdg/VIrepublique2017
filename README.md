@@ -113,6 +113,7 @@ _Suite du document générée à partir des éléments du programme_
 * **Si de l'évasion fiscale est découverte, les biens non déclarés par le fautif seront alors la propriété de l'état français.** Il s'agit d'une mesure forte contre la fraude. Cependant, cette dernière semble très envahissant sur le droit de propriété.
 * **Nouvel impôt sur le revenu, plus simple, plus juste, prélevé à la source.** Je me base ici sur les travaux proposés par [Camille Landais, Thomas Piketty et Emmanuel Saez](http://www.revolution-fiscale.fr/). De nombreux éléments de l'impôt actuel sont supprimés: impôt sur le revenu (IRPP), CSG, CRDS, prélèvement libératoire, impôt proportionnel sur les plus values, prime pour l'emploi et bouclier fiscal. Ils sont remplacés par un unique barème à tranche. De plus, l'impôt est individuel, n'étant pas relié à un foyer. Une version résumée de ce nouvel impôt est disponible [ici](http://www.revolution-fiscale.fr/img/t2-1.pdf).
 * **Aide normalisée pour les enfants, déliée de la notion de revenu.** Pour chaque enfant de moins de 18 ans, l'aide à la famille est versée au responsable légal de l'enfant, avec des tranches d'âges (besoins suivant l'âge). À l'âge de 18 ans, ces aides disparaissent avec le revenu universel directement versé au jeune adulte.
+* **Nettoyage de nombreuses niches fiscales.** Les vides législatifs qui permettent une réduction d’impôts sans être en infraction doivent être éliminés. Les dérogations fiscales ont pour objectif de favoriser indirectement certaines actions des citoyens. Cependant, leur trop grand nombre génère une opacité du système fiscale qui à la fois rend plus coûteux le processus de contrôle fiscal, tout en favorisant les classes sociales ayant accès à la connaissance permettant de les utiliser. De plus, certaines sont mal utilisées ou ont dérivées. Elles ne sont pas toutes “mauvaises”, et il est nécessaire de considérer les impacts des mesures. Je considère ici le [rapport sur les niches sociales de 2011](http://www.economie.gouv.fr/rapport-du-comite-d-evaluation-des-depenses-fiscales-et-des-niches-sociales-2011).
 
 ### Politique
 
@@ -123,6 +124,7 @@ _Suite du document générée à partir des éléments du programme_
 * **Une fois le système de vote modifié, le droit de vote devient un devoir de vote. Amendes en cas de non inscription sur les listes électorales et en cas de non vote.** Cela ne concerne pas le vote dans l'assemblée numérique. Cette mesure n'a de valeur que si le système de vote est modifié car actuellement, beaucoup de personnes se sentent trahies par le système électoral actuel et ne veulent pas voter. Avec le nouveau système plus représentatif, ne pas voter doit être une conviction de non croyance dans le système et non un oubli/flemme.
 * **Droit de vote pour les étrangers aux élections locales.**
 * **Transparence sur les financements publiques des députés/hommes politiques (enveloppes).**
+* **Dernière utilisation du 49.3 pour supprimer le 49.3.**
 
 ##### Hommes Politique
 

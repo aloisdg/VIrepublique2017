@@ -7,6 +7,7 @@
 * **Une fois le système de vote modifié, le droit de vote devient un devoir de vote. Amendes en cas de non inscription sur les listes électorales et en cas de non vote.** Cela ne concerne pas le vote dans l'assemblée numérique. Cette mesure n'a de valeur que si le système de vote est modifié car actuellement, beaucoup de personnes se sentent trahies par le système électoral actuel et ne veulent pas voter. Avec le nouveau système plus représentatif, ne pas voter doit être une conviction de non croyance dans le système et non un oubli/flemme.
 * **Droit de vote pour les étrangers aux élections locales.**
 * **Transparence sur les financements publiques des députés/hommes politiques (enveloppes).**
+* **Dernière utilisation du 49.3 pour supprimer le 49.3.**
 
 ##### Hommes Politique
 
