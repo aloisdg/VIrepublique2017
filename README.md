@@ -2,7 +2,7 @@
 
 ## Licence
 
-L'ensemble des documents présents dans ce dépôts est soumis à la licence [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/fr/) et ses [conditions](https://creativecommons.org/licenses/by-sa/2.0/fr/legalcode).
+L'ensemble des documents présents dans ce dépôt est soumis à la licence [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/fr/) et ses [conditions](https://creativecommons.org/licenses/by-sa/2.0/fr/legalcode).
 
 ## Contributions
 
@@ -17,7 +17,7 @@ Ce document est un programme politique destiné à la présidentielle de 2017. I
 
 ## Programme
 
-Ce programme peut-être récupéré au format PDF en accédant à [ce lien](https://gitprint.com/Philaeux/VIrepublique2017/blob/master/README.md).
+Ce programme peut-être récupéré au format PDF en accédant à [ce lien](https://github.com/Philaeux/VIrepublique2017/raw/master/ProgrammeVincentLamotte2017.pdf).
 
 _Suite du document générée à partir des éléments du programme_
 
@@ -180,4 +180,4 @@ _Suite du document générée à partir des éléments du programme_
 * **Suppression du changement d'heure hiver/été. Conservation toute l'année de GMT+1.** Le changement se ferait simplement par un non décalage à l'heure d'été une des années, et plus de changement d'heure par la suite. La coordination avec les pays voisins pour faire ce changement en même temps, si désiré, est nécessaire (cas de l'Espagne).
 * **Légalisation de la consommation de cannabis à but thérapeutique et récréative, vente autorisée aux personnes de plus de 22 ans.** La vente est encadrée par les pharmacie et la consommation est suivie sur la carte vitale afin de prévenir les abus. De plus, les mêmes règles que pour la consommation d'alcool s'appliquent: conduite interdite, état "d'ébriété" sur la voie publique.
 * **Interdiction de la vente liée, notamment dans la vente de matériel informatique.** Un acheteur doit avoir conscience de tous les éléments présents dans le système acheté, leur valeur, les offres d’essais et peut refuser certains des éléments (avec soustraction au prix).
-* **Création d'une carte d'identité électronique pour moderniser les systèmes d'état.** De la même manière que ce qui existe en [Estonie](https://e-estonia.com/component/electronic-id-card/), cette carte permettrait à un citoyen français de voyager en Europe, regrouperait la carte vitale, servirait de preuve d'identification avec un couple de clef d'identification pour les services numériques (impôts, santé...), le vote électronique. Cette carte serait délivrée en mairie. En cas de perte, une opposition au près d'un poste de police permettrait d'invalider une carte.
+* **Création d'une carte d'identité électronique pour moderniser les systèmes d'état.** De la même manière que ce qui existe en [Estonie](https://e-estonia.com/component/electronic-id-card/), cette carte permettrait à un citoyen français de voyager en Europe, regrouperait la carte vitale, servirait de preuve d'identification avec un couple de clef d'identification pour les services numériques (impôts, santé...), le vote électronique. Cette carte serait délivrée en mairie. En cas de perte, une opposition auprès d'un poste de police permettrait d'invalider une carte.

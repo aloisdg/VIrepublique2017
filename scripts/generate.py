@@ -43,7 +43,6 @@ if __name__ == '__main__':
     generate_readme(for_pdf=True)
     pypandoc.convert('README.md',
                      'pdf',
-                     outputfile="ProgrammeVincentLamotte2017.pdf",
-                     extra_args=['-V',
-                                 'geometry:margin=2.5cm'])
+                     outputfile="ProgrammeLamotte2017.pdf",
+                     extra_args=['-V', 'geometry:margin=2.5cm'])
     generate_readme(for_pdf=False)

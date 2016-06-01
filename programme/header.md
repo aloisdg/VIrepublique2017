@@ -2,7 +2,7 @@
 
 ## Licence
 
-L'ensemble des documents présents dans ce dépôts est soumis à la licence [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/fr/) et ses [conditions](https://creativecommons.org/licenses/by-sa/2.0/fr/legalcode).
+L'ensemble des documents présents dans ce dépôt est soumis à la licence [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/fr/) et ses [conditions](https://creativecommons.org/licenses/by-sa/2.0/fr/legalcode).
 
 ## Contributions
 
@@ -17,7 +17,7 @@ Ce document est un programme politique destiné à la présidentielle de 2017. I
 
 ## Programme
 
-Ce programme peut-être récupéré au format PDF en accédant à [ce lien](https://gitprint.com/Philaeux/VIrepublique2017/blob/master/README.md).
+Ce programme peut-être récupéré au format PDF en accédant à [ce lien](https://github.com/Philaeux/VIrepublique2017/raw/master/ProgrammeVincentLamotte2017.pdf).
 
 _Suite du document générée à partir des éléments du programme_
 
