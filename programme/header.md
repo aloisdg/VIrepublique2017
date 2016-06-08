@@ -6,7 +6,7 @@ L'ensemble des documents présents dans ce dépôt est soumis à la licence [CC-
 
 ## Contributions
 
-Pour pouvoir débattre et contribuer à l'ensemble des mesures présentes dans ce document, il faut se connecter avec un compte Github et participer aux [Issues](https://github.com/Philaeux/VIrepublique2017/issues). 
+Pour pouvoir débattre et contribuer à l'ensemble des mesures présentes dans ce document, il faut se connecter avec un compte Github et participer aux [Issues sur le Github](https://github.com/Philaeux/VIrepublique2017/issues). 
 
 ## Présentation
 
