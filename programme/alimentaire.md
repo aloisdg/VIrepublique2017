@@ -5,6 +5,7 @@
 * **Modification des subventions/taxes pour diminuer la production de viande. Transition vers une agriculture végétale pour la consommation et non pour la production animale. Mesures poussées au niveau Européen.** Le but est de diminuer la quantité de viande (rouge) produite, non pas pour la faire disparaître, mais pour fortement diminuer son empreinte écologique. De plus, avec une vision d'avenir, la production agricole actuelle n'est pas adaptée à une population mondiale doublée.
 * **Modification des subventions/taxes pour diminuer les élevages intensifs et favoriser les élevages biologiques. Mesures poussées au niveau Européen.** L'élevage ne doit pas disparaître mais diminuer en volume, devenant ainsi une nourriture plus respectueuse de l'environnement, et de qualité, mais du coup rare, chère, et occasionnelle.
 * **Fortes restrictions sur l'usage des pesticides dans l'agriculture. Mesures poussées au niveau Européen.** L'impact sur la biosphère des produits chimiques utilisés par l'agriculture semble profond. La vigilance ainsi que la prévention sont nécessaires pour les années à venir.
+* **Modification des subventions pour soutenir les initiatives de fermes verticales (hydroponiques).** L'utilisation et l'amélioration des techniques d'agriculture hors-sol permettront de limiter l'importation à outrance tout en effectuant des économies d'eau et de terrains.
 
 ##### Distribution
 
