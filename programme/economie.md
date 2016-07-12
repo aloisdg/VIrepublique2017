@@ -1,7 +1,7 @@
 ### Économie et travail
 
 * **Égalité homme femme dans les rémunérations salariales.**
-* **Revenu universel (RU) pour tout citoyen jouissant de ses droits dès 18 ans (environ 800€).** Suppression de beaucoup d'aides non nécessaires avec ce système, allégeant ainsi tout l'administratif qui se trouve derrière.
+* **Revenu universel (RU) pour tout citoyen jouissant de ses droits dès 18 ans (environ 800€), indexé sur l'inflation.** Suppression de beaucoup d'aides non nécessaires avec ce système, allégeant ainsi tout l'administratif qui se trouve derrière.
 * **Augmentation du SMIC.**
 * **Suppression du RSA.** Non nécessaire avec le revenu universel.
 * **Arrêt des partenariats publics-privés.** Il s'agit d'une bombe à retardement budgétaire pour les années à venir.
