@@ -16,4 +16,3 @@
 * **Renforcement des mesures punitives contre les absences répétées de députés et sénateurs.** Cf: [nosdeputes.fr](http://www.nosdeputes.fr/) et [nossenateurs.fr](www.nossenateurs.fr).
 * **Intégrité morale des hommes politiques.** Sous certaines conditions (exemple: condamnations), interdiction de se présenter.
 
-

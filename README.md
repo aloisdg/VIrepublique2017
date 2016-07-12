@@ -17,7 +17,7 @@ Ce document est un programme politique destiné à la présidentielle de 2017. I
 
 ## Programme
 
-Ce programme peut-être récupéré au format PDF en accédant à [ce lien](https://github.com/Philaeux/VIrepublique2017/raw/master/ProgrammeVincentLamotte2017.pdf).
+Ce programme peut-être récupéré au format PDF en accédant à [ce lien](https://raw.githubusercontent.com/Philaeux/VIrepublique2017/master/ProgrammeLamotte2017.pdf).
 
 _Suite du document générée à partir des éléments du programme_
 
@@ -30,6 +30,7 @@ _Suite du document générée à partir des éléments du programme_
 * **Modification des subventions/taxes pour diminuer la production de viande. Transition vers une agriculture végétale pour la consommation et non pour la production animale. Mesures poussées au niveau Européen.** Le but est de diminuer la quantité de viande (rouge) produite, non pas pour la faire disparaître, mais pour fortement diminuer son empreinte écologique. De plus, avec une vision d'avenir, la production agricole actuelle n'est pas adaptée à une population mondiale doublée.
 * **Modification des subventions/taxes pour diminuer les élevages intensifs et favoriser les élevages biologiques. Mesures poussées au niveau Européen.** L'élevage ne doit pas disparaître mais diminuer en volume, devenant ainsi une nourriture plus respectueuse de l'environnement, et de qualité, mais du coup rare, chère, et occasionnelle.
 * **Fortes restrictions sur l'usage des pesticides dans l'agriculture. Mesures poussées au niveau Européen.** L'impact sur la biosphère des produits chimiques utilisés par l'agriculture semble profond. La vigilance ainsi que la prévention sont nécessaires pour les années à venir.
+* **Modification des subventions pour soutenir la recherche et les initiatives de fermes verticales (hydroponiques).** L'utilisation et l'amélioration des techniques d'agriculture hors-sol permettront de limiter l'importation à outrance tout en effectuant des économies d'eau et de terrains. Cette technologie nécessite une évaluation du coût/gain pour la production.
 
 ##### Distribution
 
@@ -52,7 +53,7 @@ _Suite du document générée à partir des éléments du programme_
 
 * **Interdiction de la tauromachie.** Respect des animaux.
 * **Contrôle en profondeur de la redevance audiovisuelle.** Savoir précisément où elle va. Il ne s'agit pas de cloner les divertissements et les modes de fonctionnement des chaînes privés, mais plutôt d'apporter des éléments culturels et intellectuels. Cela passe par plus de débats, plus variés, avec des sciences "dur et molles", des débats sociaux, de la découverte...
-* **Rapports sur les conglomérats de presse. Nécessité d'une alternative aux concentrations libérales des médiats.** La situation actuelle est "quasi-catastrophique". Beaucoup de citoyens ne donnent plus de crédit aux chaînes de télévisions, et reprochent aux journaux d'avoir perdu une qualité de contenu. Ces derniers ont presque tous du subir une privatisation pour survivre. Cependant, un autre système est nécessaire pour offrir une qualité de travail aux membres de ce domaine pour fournir de la qualité. Une redevance pour la presse peut être nécessaire pour créer un journal alternatif qui ne subirait pas les pressions économiques/politiques, idéalement développé au niveau Européen. Je pense que la solution la plus adaptée consiste en une plate-forme d'état (ou ONG) mutualisant les services de distribution de presse en ligne.
+* **Rapports sur les conglomérats de presse. Nécessité d'une alternative aux concentrations libérales des médias.** La situation actuelle est "quasi-catastrophique". Beaucoup de citoyens ne donnent plus de crédit aux chaînes de télévisions, et reprochent aux journaux d'avoir perdu une qualité de contenu. Ces derniers ont presque tous du subir une privatisation pour survivre. Cependant, un autre système est nécessaire pour offrir une qualité de travail aux membres de ce domaine pour fournir de la qualité. Une redevance pour la presse peut être nécessaire pour créer un journal alternatif qui ne subirait pas les pressions économiques/politiques, idéalement développé au niveau Européen. Je pense que la solution la plus adaptée consiste en une plate-forme d'état (ou ONG) mutualisant les services de distribution de presse en ligne.
 * **Modification de la chronologie des médias.** Dans une époque où l'on peut tout trouver sur Internet, la chronologie actuelle incite au piratage. Le support physique (type DVD/BluRay) est considéré comme "prioritaire" sur la vidéo à la demande (VOD), ce qui peut s'apparenter à une protection économique contre l'avancée technologique.
   * **Chronologie pour les oeuvres faisant leur première apparition au cinéma.** Le visa d'exploitation permet la diffusion en salle. 4 mois après, l'oeuvre peut être vendue ou louée sur des supports vidéo-graphique, diffusé sur une télévision payante affilié au cinéma, ou obtenu par VOD avec paiement à l'acte ou VOD par abonnement. 12 mois après, l'oeuvre peut être diffusée sur une télévision payante, et 18 mois après, sur une télévision gratuite.
   * **Chronologie pour les oeuvres faisant leur apparition à la télévision (séries télévisées, dessins animés...).** Dès la première diffusion d'un épisode, ce dernier peut-être disponible sur tout autre média de distribution (physique, ou VOD).
@@ -66,7 +67,7 @@ _Suite du document générée à partir des éléments du programme_
 ### Économie et travail
 
 * **Égalité homme femme dans les rémunérations salariales.**
-* **Revenu universel (RU) pour tout citoyen jouissant de ses droits dès 18 ans (environ 800€).** Suppression de beaucoup d'aides non nécessaires avec ce système, allégeant ainsi tout l'administratif qui se trouve derrière.
+* **Revenu universel (RU) pour tout citoyen jouissant de ses droits dès 18 ans (environ 800€), indexé sur l'inflation.** Suppression de beaucoup d'aides non nécessaires avec ce système, allégeant ainsi tout l'administratif qui se trouve derrière.
 * **Augmentation du SMIC.**
 * **Suppression du RSA.** Non nécessaire avec le revenu universel.
 * **Arrêt des partenariats publics-privés.** Il s'agit d'une bombe à retardement budgétaire pour les années à venir.
@@ -96,7 +97,7 @@ _Suite du document générée à partir des éléments du programme_
 
 * **Extension de la durée de vie des centrales dans les limites de la sécurité nucléaire, des nécessités en énergie, et de la disponibilité des ressources en uranium.** Les installations sont présentes, il est intéressant d'un point de vue économique et énergétique de les utiliser dans la limite du possible.
 * **Établissement d'une stratégie de démantèlement des bâtiments nucléaires civils "réaliste".** Nettoyer les installations nucléaires sera une importante responsabilité pour notre génération.
-* **Faible développement pour la fission nucléaire civile.** Technologie (dé)passée.
+* **Investissement raisonné dans la fission nucléaire civile de quatrième génération (neutrons rapides).** La nouvelle génération de réacteurs nucléaires permet une meilleure gestion des matières premières. Cependant il existe de nombreuses interrogations sur l'avenir de la fission. Quelles dépendances existent vis à vis des matières premières (cf. Interventions extérieures)? Avons-nous réellement bien évalué le coût du démantèlement des installations nucléaires? Le fiasco du chantier de quatrième génération de Flamanville n'inspire pas confiance pour la suite de la technologie.
 * **Investissements dans la fusion nucléaire civile.** Technologie hypothétique de production d'énergie future.
 * **Mise en production de davantage de moyens de génération d'énergie électrique écologiques pour remplacer les centrales nucléaires et les centrales thermiques dans la génération d'énergie de masse.** Technologies solaires, éolien (offshore ou non), marémotrice, géothermique, hydrolien...
 * **Investissements dans l'amélioration du système électrique globale.** Vers du "SMARTGRID".
@@ -127,7 +128,7 @@ _Suite du document générée à partir des éléments du programme_
 * **Nouveau mode d'élection du président de la république, des parlementaires ainsi que des députés Européens: "Scrutin à Vote Unique Transférable" ("Single Transferable Vote" = STV).** Il en existe plusieurs, une étude du plus approprié est nécessaire. Cependant, rien que dans sa forme la plus simple, il confère de nombreux avantages par rapport aux techniques de votes utilisées actuellement. Il offre une meilleure représentation de la population dans les institutions de la république.
 * **Une fois le système de vote modifié, le droit de vote devient un devoir de vote. Amendes en cas de non inscription sur les listes électorales et en cas de non vote.** Cela ne concerne pas le vote dans l'assemblée numérique. Cette mesure n'a de valeur que si le système de vote est modifié car actuellement, beaucoup de personnes se sentent trahies par le système électoral actuel et ne veulent pas voter. Avec le nouveau système plus représentatif, ne pas voter doit être une conviction de non croyance dans le système et non un oubli/flemme.
 * **Droit de vote pour les étrangers aux élections locales.**
-* **Transparence sur les financements publiques des députés/hommes politiques (enveloppes).**
+* **Transparence sur les financements publiques des députés/hommes politiques (enveloppes).** Réduction/Suppressions des avantages en nature en suivant les abus fait (nourriture, logement, véhicule, chauffeur, associés...).
 * **Dernière utilisation du 49.3 pour supprimer le 49.3.**
 
 ##### Hommes Politique

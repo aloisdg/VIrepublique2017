@@ -17,7 +17,7 @@ Ce document est un programme politique destiné à la présidentielle de 2017. I
 
 ## Programme
 
-Ce programme peut-être récupéré au format PDF en accédant à [ce lien](https://github.com/Philaeux/VIrepublique2017/raw/master/ProgrammeVincentLamotte2017.pdf).
+Ce programme peut-être récupéré au format PDF en accédant à [ce lien](https://raw.githubusercontent.com/Philaeux/VIrepublique2017/master/ProgrammeLamotte2017.pdf).
 
 _Suite du document générée à partir des éléments du programme_
 
