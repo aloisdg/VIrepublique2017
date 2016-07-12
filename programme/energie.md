@@ -2,7 +2,7 @@
 
 * **Extension de la durée de vie des centrales dans les limites de la sécurité nucléaire, des nécessités en énergie, et de la disponibilité des ressources en uranium.** Les installations sont présentes, il est intéressant d'un point de vue économique et énergétique de les utiliser dans la limite du possible.
 * **Établissement d'une stratégie de démantèlement des bâtiments nucléaires civils "réaliste".** Nettoyer les installations nucléaires sera une importante responsabilité pour notre génération.
-* **Faible développement pour la fission nucléaire civile.** Technologie (dé)passée.
+* **Développement de la fission nucléaire civile de quatrième génération (neutrons rapides).** La génération actuelle de réacteurs gaspille l'uranium naturel. La quatrième génération augmente énormément l'énergie produite pour la même quantité d'uranium naturel, de plus elle permet d'utiliser le Thorium.
 * **Investissements dans la fusion nucléaire civile.** Technologie hypothétique de production d'énergie future.
 * **Mise en production de davantage de moyens de génération d'énergie électrique écologiques pour remplacer les centrales nucléaires et les centrales thermiques dans la génération d'énergie de masse.** Technologies solaires, éolien (offshore ou non), marémotrice, géothermique, hydrolien...
 * **Investissements dans l'amélioration du système électrique globale.** Vers du "SMARTGRID".
