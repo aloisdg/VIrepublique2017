@@ -1,0 +1,1 @@
+cfg.ini is crypted using Git Transcrypt. Replace it with another config.

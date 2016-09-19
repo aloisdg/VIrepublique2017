@@ -1,0 +1,4 @@
+#pattern  filter=crypt diff=crypt
+scripts/mail/cfg.ini filter=crypt diff=crypt
+scripts/mail/mail.txt filter=crypt diff=crypt
+scripts/mail/mail.private filter=crypt diff=crypt
